@@ -185,8 +185,7 @@ This runs the original basic text processing script.
 ```bash
 text-processing/
 ├── src/
-│   ├── text_processing.py        # Original basic text processing script
-│   └── text_classification.py     # Main ML script
+│   └── text_classification.py    # Main ML script
 ├── data/
 │   └── text_dataset.csv          # Labeled dataset
 ├── models/
