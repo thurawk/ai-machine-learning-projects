@@ -4,3 +4,5 @@ seaborn
 joblib
 matplotlib
 scikit-learn
+requests
+beautifulsoup4
